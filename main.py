@@ -1,2 +1,2 @@
-print ("hello everyone")
+# hello everyone
 print ("hi")
